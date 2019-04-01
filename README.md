@@ -26,7 +26,7 @@ When using this dataset please cite
 }
 ```
 
-This data itself is a modification of the original [Stanford Dialogue Corpus!](https://nlp.stanford.edu/blog/a-new-multi-turn-multi-domain-task-oriented-dialogue-dataset/). It contains crowd-sourced rewrites to facilitate research in dialogue state tracking using natural language as the interface. 
+This data itself is a modification of the original [Stanford Dialogue Corpus](https://nlp.stanford.edu/blog/a-new-multi-turn-multi-domain-task-oriented-dialogue-dataset/). It contains crowd-sourced rewrites to facilitate research in dialogue state tracking using natural language as the interface. 
 
 ## License Summary
 
