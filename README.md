@@ -1,4 +1,4 @@
-# Alexa Contextual Query Rewrite Dataset
+# Contextual Query Rewrite Dataset for Spoken Dialogue
 
 ![CQR](https://github.com/alexa/alexa-dataset-contextual-query-rewrite/blob/master/dialog2-crop.png)
 
