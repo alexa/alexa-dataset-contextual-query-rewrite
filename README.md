@@ -1,6 +1,6 @@
 # Contextual Query Rewrite (CQR) Dataset for Spoken Dialogue
 
-[Contextual Query Rewrite](//dialog2-crop.png)
+![Contextual Query Rewrite](https://github.com/alexa/alexa-dataset-contextual-query-rewrite/blob/master/dialog2-crop.png)
 
 ## Motivation
 Dialogue assistants are used by millions of people today to fulfill a variety of tasks.  Such assistants also serve as a digital marketplace where any developer can build a domain-specific, task-oriented, dialogue agent offering a service such as booking cabs, ordering food, listening to music, shopping etc. Also, these agents may interact with each other, when completing a task on behalf of the user. Accomplishing this task requires understanding the context of a dialogue, communicating the conversational state to multiple agents and updating the state as the conversation proceeds. However, this is challenging given that different agents use their own domain specific schemas and meaning representations. In this dataset, we explore using natural language as an API for communicating across agents, thereby eliminating the need to learn or adapt to schema mappings. Instead, we show how one can leverage the syntactic/semantic regularities imposed by the language itself as a way to track the dialogue state. 
