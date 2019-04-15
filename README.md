@@ -21,7 +21,7 @@ When using this dataset, please cite
 ```shell
 @inproceedings{Regan2019ADF,
   title={A dataset for resolving referring expressions in spoken dialogue via contextual query rewrites (CQR)},
-  author={Michael Regan and Pushpendre Rastogi and Arpit Gupta. Lambert Mathias},
+  author={Michael Regan, Pushpendre Rastogi, Arpit Gupta and  Lambert Mathias},
   year={2019}
 }
 ```
