@@ -10,7 +10,7 @@ This work is detailed in the following [paper](https://arxiv.org/pdf/1903.05164.
 @inproceedings{rastogi2019scaling,
   title={Scaling Multi-Domain Dialogue State Tracking via Query Reformulation},
   author={Rastogi, Pushpendre and Gupta, Arpit and Chen, Tongfei and Mathias, Lambert},
-  booktitle={Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics},
+  booktitle={Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics},
   year={2019},
   publisher={Association for Computational Linguistics},
 }
