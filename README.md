@@ -16,26 +16,10 @@ This work is detailed in the following [paper](https://arxiv.org/pdf/1903.05164.
 }
 ```
 
-## Citation
-When using the rewrites in this dataset, please cite
-```shell
-@inproceedings{Regan2019ADF,
-  title={A dataset for resolving referring expressions in spoken dialogue via contextual query rewrites (CQR)},
-  author={Michael Regan, Pushpendre Rastogi, Arpit Gupta and  Lambert Mathias},
-  year={2019}
-}
-```
+
 To create this dataset, we used a dataset that Stanford makes publicly available for download at the following link: [Stanford Dialogue Corpus](https://nlp.stanford.edu/blog/a-new-multi-turn-multi-domain-task-oriented-dialogue-dataset/). Our dataset contains MTurk, crowd-sourced rewrites of dialogues in the Stanford dataset to facilitate research in dialogue state tracking using natural language as the interface. For details of the contextual query rewrite dataset creation please refer to this [paper](https://arxiv.org/pdf/1903.11783.pdf).
 
-For the original dataset please cite
-```shell
-@article{eric2017key,
-  title={Key-value retrieval networks for task-oriented dialogue},
-  author={Eric, Mihail and Manning, Christopher D},
-  journal={arXiv preprint arXiv:1705.05414},
-  year={2017}
-}
-```
+
 
 
 ## Format
